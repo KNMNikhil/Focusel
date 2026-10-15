@@ -8,7 +8,7 @@
 Press a key, say what you want, and the notch does it: answers, emails, notes, music, meetings, and dictation into any app.</p>
 
 <p align="center">
-  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.6 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
+  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.7 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
 </p>
 
 <p align="center">
@@ -172,6 +172,14 @@ Updates keep your permissions, because every release is signed with the same cer
 ## Updates
 
 Focusel looks for a newer version every few hours (switch it off in Settings). When one is ready, an **Update** button appears in the sidebar; press it and it shows its progress, installs only a download signed with the key built into the app, and reopens by itself with a card showing what is new. Your settings, keys and history are not touched.
+
+## What's new in 0.1.7
+
+- **The dictation model sets itself up.** Offer it during setup or switch dictation on: the one-time 574 MB download starts by itself, shows its progress, resumes if interrupted, and dictation starts the moment it is ready. The app itself stays a small download (about 55 MB), and so do updates.
+- **Drafts keep their file.** "Find my resume in Finder, attach it and draft a mail to…" now attaches the file; nothing is sent until you click.
+- **You see what it is doing.** The notch shows the app it is working in, with a shimmering verb beside its icon.
+- **Follow-ups.** Up to three follow-up topics under an answer; ⌃⌥J always starts a new question.
+- **Better answers and WhatsApp names.** Facts like "who is the captain" are answered in words, and WhatsApp senders (including businesses) show their names.
 
 ## What's new in 0.1.6
 
