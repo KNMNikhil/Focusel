@@ -8,7 +8,7 @@
 Press a key, say what you want, and the notch does it: answers, emails, notes, music, meetings, and dictation into any app.</p>
 
 <p align="center">
-  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.7 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
+  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.8 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
 </p>
 
 <p align="center">
@@ -172,6 +172,14 @@ Updates keep your permissions, because every release is signed with the same cer
 ## Updates
 
 Focusel looks for a newer version every few hours (switch it off in Settings). When one is ready, an **Update** button appears in the sidebar; press it and it shows its progress, installs only a download signed with the key built into the app, and reopens by itself with a card showing what is new. Your settings, keys and history are not touched.
+
+## What's new in 0.1.8
+
+- **Finder finds the file you meant**, even when it was misheard or you said another word for it (resume for CV). You choose between the closest files before anything is opened, attached or put anywhere.
+- **Open a file from Finder**, put files of any kind in a note, put a mail in a Notion page or add its meeting to your calendar, and ask which mails need a reply.
+- **A person's own profile.** Ask for someone's LinkedIn or Instagram and get who they are plus a button to their own page in Chrome.
+- **The same question, the same answer**, however you put it.
+- **A sound when dictation is typed**, the same one the answers make.
 
 ## What's new in 0.1.7
 
