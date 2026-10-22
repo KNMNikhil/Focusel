@@ -8,7 +8,7 @@
 Press a key, say what you want, and the notch does it: answers, emails, notes, music, meetings, and dictation into any app.</p>
 
 <p align="center">
-  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.8 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
+  <a href="https://github.com/KNMNikhil/Focusel/releases/latest/download/Focusel.dmg"><b>⬇ Download for Mac</b></a> &nbsp;·&nbsp; Version 0.1.9 &nbsp;·&nbsp; macOS, Apple silicon, Macs with a notch
 </p>
 
 <p align="center">
@@ -172,6 +172,11 @@ Updates keep your permissions, because every release is signed with the same cer
 ## Updates
 
 Focusel looks for a newer version every few hours (switch it off in Settings). When one is ready, an **Update** button appears in the sidebar; press it and it shows its progress, installs only a download signed with the key built into the app, and reopens by itself with a card showing what is new. Your settings, keys and history are not touched.
+
+## What's new in 0.1.9
+
+- **Circled people:** ask for their LinkedIn or Instagram and get who they are plus a button to their own profile page, when the picture names them or you say the name.
+- **Dictation goes where the cursor is** when the words are typed, even if you switched apps while speaking.
 
 ## What's new in 0.1.8
 
